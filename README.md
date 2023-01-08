@@ -3,6 +3,15 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/ErikaPabon/ErikaPabon/main/Hithere.jpg" width="100"/>
 </div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/erikaapabontriana/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://erikapabon.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Here!-brightgreen&logoColor=white?style=for-the-badge" alt="Portfolio Badge"/>
+  </a>
+</div>
+
 - 👋 Hi, I’m @ErikaPabon...
 - 👀 I’m interested in project Data Analysis, Software Development...
 - 🌱 I’m currently learning Cloud computing, PHP, SQL, HTML, CSS, JavaScript...
