@@ -1,6 +1,8 @@
 [![MasterHead](https://raw.githubusercontent.com/ErikaPabon/ErikaPabon/main/AnalystDeveloper.jpg)](https://github.com/ErikaPabon)
 
-
+<div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/ErikaPabon/ErikaPabon/main/Hithere.jpg" width="100"/>
+</div>
 - 👋 Hi, I’m @ErikaPabon...
 - 👀 I’m interested in project Data Analysis, Software Development...
 - 🌱 I’m currently learning Cloud computing, PHP, SQL, HTML, CSS, JavaScript...
