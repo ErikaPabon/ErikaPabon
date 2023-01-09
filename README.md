@@ -18,7 +18,7 @@
 <br>
 <h2> 👀 Focused on Data Analytics, Visualization & Software Development</h2>
 <br>
-  <h3>🌱 Some of the tools I work with are:
+  <h3>🌱 Some of the tools I work with:
   <ul>
   <br>
   <li>DBMS suchs: MySQL, phpMyAdmin, DB2, SMSS</li>
