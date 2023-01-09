@@ -29,21 +29,20 @@
   </h3>
   <br>
   <br>
-  <h2>My Github have repositories of different projects I have work on: </h2>
+  <h2> A walk through my Github Account </h2>
 <br>
 <h3><ol>
 <br>
-  <li>ErikaPabon.github.io: This is the repository for my Website, which I proudly made from scratch. With help of freeCodeCamp. </li>
-  <li>Final-Project-GUI: This repository contains my final Java project when accomplishing my A.S. in Computer Programming. </li>
-  <li>SurveyForm: This repository has the code I learned through an CSS & HTML interactive project. </li>
-  <li>SQLProject: This repository stores all the queries I have used for different Data Analytics projects</li>
+  <li>ErikaPabon.github.io --> This is the repository for my Website, which I proudly made from scratch. With help of freeCodeCamp. </li>
+  <li>Final-Project-GUI --> This repository contains my final Java project when accomplishing my A.S. in Computer Programming. </li>
+  <li>SurveyForm --> This repository has the code I learned through an CSS & HTML interactive project. </li>
+  <li>SQLProject --> This repository stores all the queries I have used for different Data Analytics projects</li>
   <ol>
     </h3>
   <br>
   <h2> 💞️ I'm passionate about technologies that change the world for the better.. </h2>
   <br> 
-  <h2> Do you have an idea in how to collaborate?</h2>
-<br>
+  <h2> Do you have an idea in how to collaborate? </h2>
   <h3>📫 You can reach me through email at eriikapabon@gmail.com...</h3>
   <br>
 <footer>
