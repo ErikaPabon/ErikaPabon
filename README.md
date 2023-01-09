@@ -19,6 +19,7 @@
 <h2> 👀 Focused on Data Analytics, Software Development...
 <br>🌱 Some of the tools I work with are:
   <ul>
+  <br>
   <li>DBMS suchs: MySQL, phpMyAdmin, DB2, SMSS</li>
   <li>Fron-End Developer Tools: HTML, CSS, API, Github</li>
   <li>Back-End Developer Tools: API, Git, JSON </li>
@@ -27,6 +28,7 @@
   </h2>
   <h3>My Github have repositories of different projects I have work on: 
 <br><ol>
+<br>
   <li>ErikaPabon.github.io: This is the repository for my Website, which I proudly made from scratch. With help of freeCodeCamp. </li>
   <li>Final-Project-GUI: This repository contains my final Java project when accomplishing my A.S. in Computer Programming. </li>
   <li>SurveyForm: This repository has the code I learned through an CSS & HTML interactive project. </li>
@@ -38,10 +40,8 @@
 <br>📫 You can reach me through email at eriikapabon@gmail.com...
 <h3>
 <footer>
+<h3> Thank you for read all the way through...</h3>
   <div  align="center">
-    <h3> Thank you for read all the way through...
   <img src="https://raw.githubusercontent.com/ErikaPabon/ErikaPabon/main/Thankyou.gif" width="400"/>
 </div>
-    </h3>
-
 </footer>
