@@ -17,7 +17,7 @@
 
 <h1> 👋 Hi, I’m Erika A. Pabon...</h1>
 <h2> 👀 Focused on Data Analytics, Software Development...
-- 🌱 Some of the tools I work with are:
+<br>🌱 Some of the tools I work with are:
   <ul>
   <li>DBMS suchs: MySQL, phpMyAdmin, DB2, SMSS</li>
   <li>Fron-End Developer Tools: HTML, CSS, API, Github</li>
@@ -25,13 +25,13 @@
   <li> Other cool tools I like to use: Canva, Stripe </li>
 </ul>
   </h2>
-- 💞️ I'm passionate about technologies that change the world for the better.. Do you have an idea in how to collaborate?
-- 📫 You can reach me through email at eriikapabon@gmail.com...
-- Thank you for read all the way through...
-
+<h3> 💞️ I'm passionate about technologies that change the world for the better.. Do you have an idea in how to collaborate?
+<br>📫 You can reach me through email at eriikapabon@gmail.com...
+Thank you for read all the way through...
+<h3>
 <footer>
   <div  align="center">
-  <img src="https://raw.githubusercontent.com/ErikaPabon/ErikaPabon/main/Thankyou.gif"/>
+  <img src="https://raw.githubusercontent.com/ErikaPabon/ErikaPabon/main/Thankyou.gif" width="400"/>
 </div>
 
 </footer>
