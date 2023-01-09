@@ -15,10 +15,23 @@
   </a>
 </div>
 
-<h1> 👋 Hi, I’m @ErikaPabon...</h1>
-<h2> 👀 I’m interested in Data Analytics, Software Development...
-- 🌱 Cloud computing, PHP, SQL, HTML, CSS, JavaScript...
+<h1> 👋 Hi, I’m Erika A. Pabon...</h1>
+<h2> 👀 Focused on Data Analytics, Software Development...
+- 🌱 Some of the tools I work with are:
+  <ul>
+  <li>DBMS suchs: MySQL, phpMyAdmin, DB2, SMSS</li>
+  <li>Fron-End Developer Tools: HTML, CSS, API, Github</li>
+  <li>Back-End Developer Tools: API, Git, JSON </li>
+  <li> Other cool tools I like to use: Canva, Stripe </li>
+</ul>
   </h2>
-- 💞️ I’m looking to collaborate on project development, software testing..
+- 💞️ I'm passionate about technologies that change the world for the better.. Do you have an idea in how to collaborate?
 - 📫 You can reach me through email at eriikapabon@gmail.com...
 - Thank you for read all the way through...
+
+<footer>
+  <div  align="center">
+  <img src="https://raw.githubusercontent.com/ErikaPabon/ErikaPabon/main/Thankyou.gif"/>
+</div>
+
+</footer>
